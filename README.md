@@ -22,6 +22,10 @@
 
 ## Простыня со всеми запросами
 
+**SQL‑запрос:**
+```sql
+SELECT user, host FROM mysql.user;
+
 -- Создание пользователя
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'temppassword';
 
