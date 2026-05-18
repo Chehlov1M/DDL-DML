@@ -22,7 +22,7 @@
 
 ## Простыня со всеми запросами
 
-**SQL‑запрос:**
+**SQL‑запросы:**
 ```sql
 SELECT user, host FROM mysql.user;
 
